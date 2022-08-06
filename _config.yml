@@ -3,7 +3,7 @@ title: NikB's Slides
 email: n.bajaj@imperial.ac.uk
 website: "http://nikeshbajaj.github.io"
 #description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/P/" # the subpath of your site, e.g. /blog/
+baseurl: "/P" # the subpath of your site, e.g. /blog/
 author: Nikesh Bajaj
 affiliation: (Imperial College London, UK)
 #footernote: Made with Reveal.js

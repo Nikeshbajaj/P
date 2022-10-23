@@ -1,3 +1,15 @@
+//Staticsts Demo for Hypothesis testing
+//=======================================
+//Author: Nikesh Bajaj (nikkeshbajaj@gmail.com)
+//Date: 23/10/2022
+//http://nikeshbajaj.in/
+//shared on ::
+//https://nikeshbajaj.github.io/P/Stats
+//https://c4fa.github.io/projects.html
+//(c)nikeshbajaj
+//License:: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+
 let Mues = []
 let Sigmas = []
 let Scales = []

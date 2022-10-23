@@ -10,6 +10,7 @@ n.bajaj@imperial.ac.uk http://nikeshbajaj.in
 # Overview
 
 ## Session 1
+
 ### Describe your data
 * Descriptive statistics  - summarising the data
 * Visualisation (plots and figures)

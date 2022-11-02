@@ -5,9 +5,10 @@
 //http://nikeshbajaj.in/
 //shared on ::
 //https://nikeshbajaj.github.io/P/Stats
-//https://c4fa.github.io/projects.html
+//https://c4fa.github.io/projects
 //(c)nikeshbajaj
 //License:: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+// If you use it, do mention the credits :)
 
 
 let Mues = []
